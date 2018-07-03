@@ -1,2 +1,2 @@
 # LeetCodeCN
-the answer of leetcode cn (https://leetcode-cn.com/)
+Leetcode CN solutions in C++ (https://leetcode-cn.com/)
